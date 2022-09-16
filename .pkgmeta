@@ -1,0 +1,3 @@
+package-as: upload-test-qa
+
+enable-nolib-creation: yes
